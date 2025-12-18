@@ -1,0 +1,3 @@
+This is a test file to verify the automatic update functionality.
+It contains some sample content that will be processed by the update script.
+The script should detect this file as new and add its content to the vector index.Another test line
