@@ -69,21 +69,9 @@
         <mxCell id="e41YfKE5IyDJ6fKEGfVF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e41YfKE5IyDJ6fKEGfVF-15" target="e41YfKE5IyDJ6fKEGfVF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e41YfKE5IyDJ6fKEGfVF-19" value="1. Преобразует вопрос в эмбеддинг&lt;div&gt;2. Ищет соответсвия в векторном хранилище&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e41YfKE5IyDJ6fKEGfVF-18">
+        <mxCell id="e41YfKE5IyDJ6fKEGfVF-19" value="1. Преобразует вопрос в эмбеддинг&lt;div&gt;2. Ищет соответсвия в векторном хранилище&lt;/div&gt;&lt;div&gt;3. Получает чанки по найденным эмбеддингам&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e41YfKE5IyDJ6fKEGfVF-18">
           <mxGeometry x="-0.5793" y="3" relative="1" as="geometry">
-            <mxPoint x="52" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e41YfKE5IyDJ6fKEGfVF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.947;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e41YfKE5IyDJ6fKEGfVF-15" target="e41YfKE5IyDJ6fKEGfVF-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="847" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e41YfKE5IyDJ6fKEGfVF-21" value="3. Получает чанки по найденным эмбеддингам" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e41YfKE5IyDJ6fKEGfVF-20">
-          <mxGeometry x="-0.6361" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="162" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e41YfKE5IyDJ6fKEGfVF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e41YfKE5IyDJ6fKEGfVF-22" target="e41YfKE5IyDJ6fKEGfVF-15">
