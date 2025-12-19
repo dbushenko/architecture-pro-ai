@@ -1,0 +1,68 @@
+================================================================================
+ОТЧЕТ О ТЕСТИРОВАНИИ RAG-БОТА
+================================================================================
+Дата и время: 2025-12-19 22:03:00
+
+СТАТИСТИКА СРАВНЕНИЯ:
+- Совпадение по нахождению чанков:      100.00%
+- Совпадение по успешности ответа:      90.00%
+- Совпадение по знанию ответа:           90.00%
+- Средняя разница в индикаторе полноты: 0.0000
+
+Обработано совпадающих вопросов: 10
+Всего текущих результатов:      10
+Всего эталонных результатов:    10
+
+ДЕТАЛЬНОЕ СРАВНЕНИЕ:
+--------------------------------------------------------------------------------
+Вопрос: где живет Zephon?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: где родился Mordain-Fall?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: какие родственники есть у Mordain-Fall?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: кто такой Mordain-Fall?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: на каких планетах бывал Mordain-Fall?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: на каких планетах бывал Zephon?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: сколько лет Zephon?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=True, knows_answer=False, completeness=0.800
+  Совпадения: [✓] chunks_found, [✗] successful_answer, [✗] knows_answer, [✓] completeness
+
+Вопрос: у кого учился Mordain-Fall?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: у кого учился Soloris?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+Вопрос: у кого учился Zephon?
+  Наши результаты:     chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Эталонные результаты: chunks_found=True, successful_answer=False, knows_answer=True, completeness=0.800
+  Совпадения: [✓] chunks_found, [✓] successful_answer, [✓] knows_answer, [✓] completeness
+
+================================================================================

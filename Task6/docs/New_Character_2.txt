@@ -1,0 +1,3 @@
+Test line added to check if the update script works.
+$(cat /home/dim/Work/architecture-pro-ai/Task6/docs/Anakin_Skywalker_2.txt)Yet another test line added to verify script functionality
+This is a unique line in the new character file
